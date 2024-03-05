@@ -22,7 +22,8 @@ I'm Daniel, a passionate about AI from Earth. Welcome to my GitHub profile!
 
 ## 🌟 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielZerihunGeda&show_icons=true&hide_border=true)
+
 
 ## 📝 Blog Posts
 
