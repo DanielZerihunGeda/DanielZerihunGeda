@@ -64,32 +64,40 @@
 # About Me
 
 <p align="center">
-  <img src="https://media.tenor.com/images/0a38f2b9f1d4dbe188b4b4a2a2d0d8c0/tenor.gif" alt="Neural Network Animation" width="200" height="200" />  
+  <img src="https://tenor.com/view/strax-crypto-king-stratis-moon-gif-21455266.gif" alt="Neural Network Animation" width="200" height="200" />  
 </p>
 
 <p>
   ✌️ I enjoy programming, particularly in the field of **Artificial Intelligence (AI)** and **Machine Learning (ML)** . I'm passionate about using these technologies to solve real-world problems in **(mention your area of interest)**.  <br/><br/>
-  * I love delving into AI & ML frameworks and libraries. 
-  * I'm constantly learning new features and exploring ways to implement them in my projects.  <br/><br/>
-   Reach me anytime: lenjisa@gmail.com<br/><br/>
-   Ask me anything about AI & ML or see my projects [here](https://github.com/DanielZerihunGeda)
+    ❤️ &emsp; * I love delving into AI & ML frameworks and libraries. <br/><br/>
+    ✌️ &emsp;* I'm constantly learning new features and exploring ways to implement them in my projects.  <br/><br/>
+    📧 &emsp;  Reach me anytime: lenjisa@gmail.com<br/><br/>
+    💬 &emsp; Ask me anything about AI & ML or see my projects [here](https://github.com/DanielZerihunGeda)
 </p>
 
 <br/>
 <br/>
 <br/>
-## 🔧 Technologies & Tools
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
-![Streamlit](https://img.shields.io/badge/-Streamlit-black?style=flat-square&logo=streamlit)
-![Apache Airflow](https://img.shields.io/badge/-Airflow-black?style=flat-square&logo=apache)
-![DBT](https://img.shields.io/badge/-DBT-black?style=flat-square&logo=dbt)
-![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-black?style=flat-square&logo=scikit-learn)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=tensorflow)
+## Technologies & Tools
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&logoColor=white&labelColor=3776AB)
+![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy&logoColor=white&labelColor=013243)
+![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas&logoColor=white&labelColor=150458)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?style=flat-square&logo=matplotlib&logoColor=white&labelColor=3776AB)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-black?style=flat-square&logo=scikit-learn&logoColor=white&labelColor=F7931E)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=tensorflow&logoColor=white&labelColor=FF6F00)
+![Keras](https://img.shields.io/badge/-Keras-black?style=flat-square&logo=keras&logoColor=white&labelColor=D00000)
+![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=pytorch&logoColor=white&labelColor=EE4C2C)
+![spaCy](https://img.shields.io/badge/-spaCy-black?style=flat-square&logo=spacy&logoColor=white&labelColor=09A3D5)
+![NLTK](https://img.shields.io/badge/-NLTK-black?style=flat-square&logo=nltk&logoColor=white&labelColor=4EA94B)
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-black?style=flat-square&logo=huggingface&logoColor=white&labelColor=FF6F00)
+![Transformers](https://img.shields.io/badge/-Transformers-black?style=flat-square&logo=transformers&logoColor=white&labelColor=FFD000)
+![GPT](https://img.shields.io/badge/-GPT-black?style=flat-square&logo=openai&logoColor=white&labelColor=3776AB)
+![Redash](https://img.shields.io/badge/-Redash-black?style=flat-square&logo=redash&logoColor=white&labelColor=FF3B3F)
+![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sql&logoColor=white&labelColor=336791)
+![DBT](https://img.shields.io/badge/-DBT-black?style=flat-square&logo=dbt&logoColor=white&labelColor=336791)
+
 
 ## 🌟 GitHub Stats
 
