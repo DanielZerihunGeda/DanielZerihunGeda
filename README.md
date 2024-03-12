@@ -64,7 +64,7 @@
 # About Me
 
 <p align="center">
-  <img src="/assets/ai_brain.gif" alt="AI Brain Animation" width="200" height="200" />  
+  <img src="https://media.tenor.com/images/0a38f2b9f1d4dbe188b4b4a2a2d0d8c0/tenor.gif" alt="Neural Network Animation" width="200" height="200" />  
 </p>
 
 <p>
