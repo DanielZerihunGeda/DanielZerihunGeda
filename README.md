@@ -57,11 +57,11 @@
 </p>
 
 <p>
-    ✌️ I enjoy programming, particularly in the field of **Artificial Intelligence (AI)** and **Machine Learning (ML)** . I'm passionate about using these technologies to solve real-world             problems in **(mention your area of interest)**.  <br/><br/>
-    ❤️ &emsp; * I love delving into AI & ML frameworks and libraries. <br/><br/>
-    ✌️ &emsp;* I'm constantly learning new features and exploring ways to implement them in my projects.  <br/><br/>
-    📧 &emsp;  Reach me anytime: lenjisa@gmail.com<br/><br/>
-    💬 &emsp; Ask me anything about AI & ML or see my projects [here](https://github.com/DanielZerihunGeda)
+:v: I enjoy programming, particularly in the field of **Artificial Intelligence (AI)** and **Machine Learning (ML)** . I'm passionate about using these technologies to solve real-world problems in **(mention your area of interest)**.  <br/><br/>
+:tada: I love delving into AI & ML frameworks and tools for practical use. <br/><br/>
+:books: I'm constantly learning new features and exploring tools and technologies.  <br/><br/>
+:wave: Reach me anytime <br/><br/>
+:memo: Ask me anything about AI & ML or explore my projects 
 </p>
 
 <br/>
@@ -81,6 +81,6 @@
 
 ## 📬 Get in Touch
 
-Feel free to reach out for collaboration, interesting projects, or just to say hi! 😊
+Feel free to reach out for collaboration, sharing interesting projects, or just to say hi! 😊
 
 Let's code something amazing together!
