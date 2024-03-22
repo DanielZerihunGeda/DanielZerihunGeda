@@ -53,7 +53,7 @@
 # About Me
 
 <p align="center">
-  <img src="https://tenor.com/view/strax-crypto-king-stratis-moon-gif-21455266.gif" alt="Neural Network Animation" width="200" height="200" />  
+  <img src="https://tenor.com/view/strax-crypto-king-stratis-moon-gif-21455266.gif" alt="Neural Network Animation" width="1368" height="768" />  
 </p>
 
 <p>
