@@ -45,7 +45,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="daniel-geda-4832012a3"/>
  </a>
  <!-- <a href="https://dev.to/DanielZerihunGeda" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="DanielZerihunGeda" />
  </a> -->
 </p>
 <br />
@@ -53,7 +53,7 @@
 # About Me
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTEwN2NpdjlncmFvdDY1MndmdmZ2bGltemkyYWcwaXYxbmppd3E5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Neural Network Animation" width="1368" height="768" />  
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTEwN2NpdjlncmFvdDY1MndmdmZ2bGltemkyYWcwaXYxbmppd3E5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Neural Network Animation" width="800" height="400" />  
 </p>
 
 <p>
