@@ -83,6 +83,4 @@
 
 Feel free to reach out for collaboration, interesting projects, or just to say hi! 😊
 
-📧 Email:
-
 Let's code something amazing together!
